@@ -8,7 +8,9 @@ You can run scraping.py to get structured data automatically about venues' stati
 
 python scraping.py "shopping"
 
-The default code will read location (town names) from a csv file, here is nytownnames.csv, and search for shopping venues on foursquare.com then scrape the structured data automatically. You can use another list of townnames with your choice.
+The default code will read location (town names) from a csv file, here is nytownnames.csv, and search for shopping venues on foursquare.com then scrape the structured data automatically finally pickled it for further analysis in python. You can use another list of townnames with your choice.
+
+
 
 
 
