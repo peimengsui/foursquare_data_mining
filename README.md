@@ -17,5 +17,4 @@ The default code will read location (town names) from a csv file, here is nytown
 
 The detailed result and future work are listed in the notebook. 
 
-
-
+Ideally, this location-based analysis should be scaled up to the entire country so that it can be integrated in our map-based product. 
