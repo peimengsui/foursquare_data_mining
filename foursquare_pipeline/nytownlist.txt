@@ -1,0 +1,1571 @@
+Adams 	Town 	Jefferson County
+Adams 	Village 	Jefferson County
+Addison 	Village 	Steuben County
+Addison 	Town 	Steuben County
+Afton 	Village 	Chenango County
+Afton 	Town 	Chenango County
+Airmont 	Village 	Rockland County
+Akron 	Village 	Erie County
+Alabama 	Town 	Genesee County
+Albany 	City 	Albany County
+Albion 	Town 	Oswego County
+Albion 	Village 	Orleans County
+Albion 	Town 	Orleans County
+Alden 	Village 	Erie County
+Alden 	Town 	Erie County
+Alexander 	Village 	Genesee County
+Alexander 	Town 	Genesee County
+Alexandria 	Town 	Jefferson County
+Alexandria Bay 	Village 	Jefferson County
+Alfred 	Village 	Allegany County
+Alfred 	Town 	Allegany County
+Allegany 	Town 	Cattaraugus County
+Allegany 	Village 	Cattaraugus County
+Allen 	Town 	Allegany County
+Alma 	Town 	Allegany County
+Almond 	Village 	Allegany County
+Almond 	Town 	Allegany County
+Altamont 	Village 	Albany County
+Altamont
+(changed to Tupper Lake 2004) 	Town 	Franklin County
+Altmar 	Village 	Oswego County
+Altona 	Town 	Clinton County
+Amboy 	Town 	Oswego County
+Amchir 	Village 	Orange County
+Amenia 	Town 	Dutchess County
+Ames 	Village 	Montgomery County
+Amherst 	Town 	Erie County
+Amity 	Town 	Allegany County
+Amityville 	Village 	Suffolk County
+Amsterdam 	Town 	Montgomery County
+Amsterdam 	City 	Montgomery County
+Ancram 	Town 	Columbia County
+Andes 	Village 	Delaware County
+Andes 	Town 	Delaware County
+Andover 	Village 	Allegany County
+Andover 	Town 	Allegany County
+Angelica 	Town 	Allegany County
+Angelica 	Village 	Allegany County
+Angola 	Village 	Erie County
+Annsville 	Town 	Oneida County
+Antwerp 	Town 	Jefferson County
+Antwerp 	Village 	Jefferson County
+Arcade 	Village 	Wyoming County
+Arcade 	Town 	Wyoming County
+Arcadia 	Town 	Wayne County
+Ardsley 	Village 	Westchester County
+Argyle 	Village 	Washington County
+Argyle 	Town 	Washington County
+Arietta 	Town 	Hamilton County
+Arkport 	Village 	Steuben County
+Arkwright 	Town 	Chautauqua County
+Asharoken 	Village 	Suffolk County
+Ashford 	Town 	Cattaraugus County
+Ashland 	Town 	Greene County
+Ashland 	Town 	Chemung County
+Athens 	Village 	Greene County
+Athens 	Town 	Greene County
+Atlantic Beach 	Village 	Nassau County
+Attica 	Village 	Genesee County
+Attica 	Town 	Wyoming County
+Auburn 	City 	Cayuga County
+Augusta 	Town 	Oneida County
+Aurelius 	Town 	Cayuga County
+Aurora 	Town 	Erie County
+Aurora 	Village 	Cayuga County
+Ausable 	Town 	Clinton County
+Austerlitz 	Town 	Columbia County
+Ava 	Town 	Oneida County
+Avoca 	Town 	Steuben County
+Avoca 	Village 	Steuben County
+Avon 	Village 	Livingston County
+Avon 	Town 	Livingston County
+Babylon 	Town 	Suffolk County
+Babylon 	Village 	Suffolk County
+Bainbridge 	Village 	Chenango County
+Bainbridge 	Town 	Chenango County
+Baldwin 	Town 	Chemung County
+Baldwinsville 	Village 	Onondaga County
+Ballston 	Town 	Saratoga County
+Ballston Spa 	Village 	Saratoga County
+Bangor 	Town 	Franklin County
+Barker 	Village 	Niagara County
+Barker 	Town 	Broome County
+Barneveld 	Village 	Oneida County
+Barre 	Town 	Orleans County
+Barrington 	Town 	Yates County
+Barton 	Town 	Tioga County
+Batavia 	City 	Genesee County
+Batavia 	Town 	Genesee County
+Bath 	Town 	Steuben County
+Bath 	Village 	Steuben County
+Baxter Estates 	Village 	Nassau County
+Bayville 	Village 	Nassau County
+Beacon 	City 	Dutchess County
+Bedford 	Town 	Westchester County
+Beekman 	Town 	Dutchess County
+Beekmantown 	Town 	Clinton County
+Belfast 	Town 	Allegany County
+Belle Terre 	Village 	Suffolk County
+Bellerose 	Village 	Nassau County
+Bellmont 	Town 	Franklin County
+Bellport 	Village 	Suffolk County
+Belmont 	Village 	Allegany County
+Bemus Point 	Village 	Chautauqua County
+Bennington 	Town 	Wyoming County
+Benson 	Town 	Hamilton County
+Benton 	Town 	Yates County
+Bergen 	Town 	Genesee County
+Bergen 	Village 	Genesee County
+Berkshire 	Town 	Tioga County
+Berlin 	Town 	Rensselaer County
+Berne 	Town 	Albany County
+Bethany 	Town 	Genesee County
+Bethel 	Town 	Sullivan County
+Bethlehem 	Town 	Albany County
+Big Flats 	Town 	Chemung County
+Binghamton 	Town 	Broome County
+Binghamton 	City 	Broome County
+Birdsall 	Town 	Allegany County
+Black Brook 	Town 	Clinton County
+Black River 	Village 	Jefferson County
+Blasdell 	Village 	Erie County
+Bleecker 	Town 	Fulton County
+Blenheim 	Town 	Schoharie County
+Bloomfield 	Village 	Ontario County
+Blooming Grove 	Town 	Orange County
+Bloomingburgh 	Village 	Sullivan County
+Bloomingdale 	Village 	Essex County
+Bolivar 	Village 	Allegany County
+Bolivar 	Town 	Allegany County
+Bolton 	Town 	Warren County
+Bombay 	Town 	Franklin County
+Boonville 	Village 	Oneida County
+Boonville 	Town 	Oneida County
+Boston 	Town 	Erie County
+Bovina 	Town 	Delaware County
+Boylston 	Town 	Oswego County
+Bradford 	Town 	Steuben County
+Brandon 	Town 	Franklin County
+Brant 	Town 	Erie County
+Brasher 	Town 	St. Lawrence County
+Brewster 	Village 	Putnam County
+Briarcliff Manor 	Village 	Westchester County
+Bridgewater 	Town 	Oneida County
+Bridgewater 	Village 	Oneida County
+Brighton 	Town 	Franklin County
+Brighton 	Town 	Monroe County
+Brightwaters 	Village 	Suffolk County
+Bristol 	Town 	Ontario County
+Broadalbin 	Town 	Fulton County
+Broadalbin 	Village 	Fulton County
+Brockport 	Village 	Monroe County
+Brocton 	Village 	Chautauqua County
+Bronxville 	Village 	Westchester County
+Brookfield 	Town 	Madison County
+Brookhaven 	Town 	Suffolk County
+Brookville 	Village 	Nassau County
+Broome 	Town 	Schoharie County
+Brownville 	Village 	Jefferson County
+Brownville 	Town 	Jefferson County
+Brunswick 	Town 	Rensselaer County
+Brushton 	Village 	Franklin County
+Brutus 	Town 	Cayuga County
+Buchanan 	Village 	Westchester County
+Buffalo 	City 	Erie County
+Burdett 	Village 	Schuyler County
+Burke 	Village 	Franklin County
+Burke 	Town 	Franklin County
+Burlington 	Town 	Otsego County
+Burns 	Town 	Allegany County
+Busti 	Town 	Chautauqua County
+Butler 	Town 	Wayne County
+Butternuts 	Town 	Otsego County
+Byron 	Town 	Genesee County
+Cairo 	Town 	Greene County
+Caledonia 	Town 	Livingston County
+Caledonia 	Village 	Livingston County
+Callicoon 	Town 	Sullivan County
+Cambria 	Town 	Niagara County
+Cambridge 	Town 	Washington County
+Cambridge 	Village 	Washington County
+Camden 	Village 	Oneida County
+Camden 	Town 	Oneida County
+Cameron 	Town 	Steuben County
+Camillus 	Town 	Onondaga County
+Camillus 	Village 	Onondaga County
+Campbell 	Town 	Steuben County
+Canaan 	Town 	Columbia County
+Canadice 	Town 	Ontario County
+Canajoharie 	Village 	Montgomery County
+Canajoharie 	Town 	Montgomery County
+Canandaigua 	Town 	Ontario County
+Canandaigua 	City 	Ontario County
+Canaseraga 	Village 	Allegany County
+Canastota 	Village 	Madison County
+Candor 	Town 	Tioga County
+Candor 	Village 	Tioga County
+Caneadea 	Town 	Allegany County
+Canisteo 	Town 	Steuben County
+Canisteo 	Village 	Steuben County
+Canton 	Town 	St. Lawrence County
+Canton 	Village 	St Lawrence County
+Cape Vincent 	Village 	Jefferson County
+Cape Vincent 	Town 	Jefferson County
+Carlisle 	Town 	Schoharie County
+Carlton 	Town 	Orleans County
+Carmel 	Town 	Putnam County
+Caroga 	Town 	Fulton County
+Caroline 	Town 	Tompkins County
+Carroll 	Town 	Chautauqua County
+Carrollton 	Town 	Cattaraugus County
+Carthage 	Village 	Jefferson County
+Cassadaga 	Village 	Chautauqua County
+Castile 	Town 	Wyoming County
+Castile 	Village 	Wyoming County
+Castleton-on-Hudson 	Village 	Rensselaer County
+Castorland 	Village 	Lewis County
+Catharine 	Town 	Schuyler County
+Catlin 	Town 	Chemung County
+Cato 	Village 	Cayuga County
+Cato 	Town 	Cayuga County
+Caton 	Town 	Steuben County
+Catskill 	Village 	Greene County
+Catskill 	Town 	Greene County
+Cattaraugus 	Village 	Cattaraugus County
+Cayuga 	Village 	Cayuga County
+Cayuga Heights 	Village 	Tompkins County
+Cayuta 	Town 	Schuyler County
+Cazenovia 	Village 	Madison County
+Cazenovia 	Town 	Madison County
+Cedarhurst 	Village 	Nassau County
+Celoron 	Village 	Chautauqua County
+Centerville 	Town 	Allegany County
+Central Square 	Village 	Oswego County
+Centre Island 	Village 	Nassau County
+Champion 	Town 	Jefferson County
+Champlain 	Village 	Clinton County
+Champlain 	Town 	Clinton County
+Charleston 	Town 	Montgomery County
+Charlotte 	Town 	Chautauqua County
+Charlton 	Town 	Saratoga County
+Chateaugay 	Village 	Franklin County
+Chateaugay 	Town 	Franklin County
+Chatham 	Village 	Columbia County
+Chatham 	Town 	Columbia County
+Chaumont 	Village 	Jefferson County
+Chautauqua 	Town 	Chautauqua County
+Chazy 	Town 	Clinton County
+Cheektowaga 	Town 	Erie County
+Chemung 	Town 	Chemung County
+Chenango 	Town 	Broome County
+Cherry Creek 	Village 	Chautauqua County
+Cherry Creek 	Town 	Chautauqua County
+Cherry Valley 	Town 	Otsego County
+Cherry Valley 	Village 	Otsego County
+Chester 	Town 	Orange County
+Chester 	Village 	Orange County
+Chester 	Town 	Warren County
+Chesterfield 	Town 	Essex County
+Chestnut Ridge 	Village 	Rockland County
+Chili 	Town 	Monroe County
+Chittenango 	Village 	Madison County
+Churchville 	Village 	Monroe County
+Cicero 	Town 	Onondaga County
+Cincinnatus 	Town 	Cortland County
+Clare 	Town 	St Lawrence County
+Clarence 	Town 	Erie County
+Clarendon 	Town 	Orleans County
+Clarkson 	Town 	Monroe County
+Clarkstown 	Town 	Rockland County
+Clarksville 	Town 	Allegany County
+Claverack 	Town 	Columbia County
+Clay 	Town 	Onondaga County
+Clayton 	Town 	Jefferson County
+Clayton 	Village 	Jefferson County
+Clayville 	Village 	Oneida County
+Clermont 	Town 	Columbia County
+Cleveland 	Village 	Oswego County
+Clifton 	Town 	St Lawrence County
+Clifton Park 	Town 	Saratoga County
+Clifton Springs 	Village 	Ontario County
+Clinton 	Village 	Oneida County
+Clinton 	Town 	Dutchess County
+Clinton 	Town 	Clinton County
+Clyde 	Village 	Wayne County
+Clymer 	Town 	Chautauqua County
+Cobleskill 	Town 	Schoharie County
+Cobleskill 	Village 	Schoharie County
+Cochecton 	Town 	Sullivan County
+Coeymans 	Town 	Albany County
+Cohocton 	Village 	Steuben County
+Cohocton 	Town 	Steuben County
+Cohoes 	City 	Albany County
+Colchester 	Town 	Delaware County
+Cold Brook 	Village 	Herkimer County
+Cold Spring 	Village 	Putnam County
+Cold Spring 	Town 	Cattaraugus County
+Colden 	Town 	Erie County
+Colesville 	Town 	Broome County
+Collins 	Town 	Erie County
+Colonie 	Village 	Albany County
+Colonie 	Town 	Albany County
+Colton 	Town 	St Lawrence County
+Columbia 	Town 	Herkimer County
+Columbus 	Town 	Chenango County
+Concord 	Town 	Erie County
+Conesus 	Town 	Livingston County
+Conesville 	Town 	Schoharie County
+Conewango 	Town 	Cattaraugus County
+Conklin 	Town 	Broome County
+Conquest 	Town 	Cayuga County
+Constable 	Town 	Franklin County
+Constableville 	Village 	Lewis County
+Constantia 	Town 	Oswego County
+Cooperstown 	Village 	Otsego County
+Copake 	Town 	Columbia County
+Copenhagen 	Village 	Lewis County
+Corfu 	Village 	Genesee County
+Corinth 	Village 	Saratoga County
+Corinth 	Town 	Saratoga County
+Corning 	Town 	Steuben County
+Corning 	City 	Steuben County
+Cornwall 	Town 	Orange County
+Cornwall-on-Hudson 	Village 	Orange County
+Cortland 	City 	Cortland County
+Cortlandt 	Town 	Westchester County
+Cortlandville 	Town 	Cortland County
+Cove Neck 	Village 	Nassau County
+Coventry 	Town 	Chenango County
+Covert 	Town 	Seneca County
+Covington 	Town 	Wyoming County
+Coxsackie 	Village 	Greene County
+Coxsackie 	Town 	Greene County
+Crawford 	Town 	Orange County
+Croghan 	Village 	Lewis County
+Croghan 	Town 	Lewis County
+Croton-on-Hudson 	Village 	Westchester County
+Crown Point 	Town 	Essex County
+Cuba 	Town 	Allegany County
+Cuba 	Village 	Allegany County
+Cuyler 	Town 	Cortland County
+Danby 	Town 	Tompkins County
+Dannemora 	Village 	Clinton County
+Dannemora 	Town 	Clinton County
+Dansville 	Town 	Steuben County
+Dansville 	Village 	Livingston County
+Danube 	Town 	Herkimer County
+Darien 	Town 	Genesee County
+Davenport 	Town 	Delaware County
+Day 	Town 	Saratoga County
+Dayton 	Town 	Cattaraugus County
+De Kalb 	Town 	St. Lawrence County
+De Peyster 	Town 	St. Lawrence County
+De Ruyter 	Village 	Madison County
+De Witt 	Town 	Onondaga County
+Decatur 	Town 	Otsego County
+Deerfield 	Town 	Oneida County
+Deerpark 	Town 	Orange County
+Deferiet 	Village 	Jefferson County
+Delanson 	Village 	Schenectady County
+Delaware 	Town 	Sullivan County
+Delevan 	Village 	Cattaraugus County
+Delhi 	Village 	Delaware County
+Delhi 	Town 	Delaware County
+Denmark 	Town 	Lewis County
+Denning 	Town 	Ulster County
+Depew 	Village 	Erie County
+Deposit 	Town 	Delaware County
+Deposit 	Village 	Broome County
+Dering Harbor 	Village 	Suffolk County
+DeRuyter 	Town 	Madison County
+Dexter 	Village 	Jefferson County
+Diana 	Town 	Lewis County
+Dickinson 	Town 	Broome County
+Dickinson 	Town 	Franklin County
+Dix 	Town 	Schuyler County
+Dobbs Ferry 	Village 	Westchester County
+Dolgeville 	Village 	Herkimer County
+Dover 	Town 	Dutchess County
+Dresden 	Town 	Washington County
+Dresden 	Village 	Yates County
+Dryden 	Village 	Tompkins County
+Dryden 	Town 	Tompkins County
+Duane 	Town 	Franklin County
+Duanesburg 	Town 	Schenectady County
+Dundee 	Village 	Yates County
+Dunkirk 	Town 	Chautauqua County
+Dunkirk 	City 	Chautauqua County
+Durham 	Town 	Greene County
+Eagle 	Town 	Wyoming County
+Earlville 	Village 	Chenango County
+East Aurora 	Village 	Erie County
+East Bloomfield 	Village 	Ontario County
+East Bloomfield 	Town 	Ontario County
+East Fishkill 	Town 	Dutchess County
+East Greenbush 	Town 	Rensselaer County
+East Hampton 	Village 	Suffolk County
+East Hampton 	Town 	Suffolk County
+East Hills 	Village 	Nassau County
+East Otto 	Town 	Cattaraugus County
+East Randolph 	Village 	Cattaraugus County
+East Rochester 	Village 	Monroe County
+East Rochester 	Town 	Monroe County
+East Rochester 	Village 	Monroe County
+East Rockaway 	Village 	Nassau County
+East Syracuse 	Village 	Onondaga County
+East Williston 	Village 	Nassau County
+Eastchester 	Town 	Westchester County
+Easton 	Town 	Washington County
+Eaton 	Town 	Madison County
+Eden 	Town 	Erie County
+Edinburg 	Town 	Saratoga County
+Edmeston 	Town 	Otsego County
+Edwards 	Village 	St Lawrence County
+Edwards 	Town 	St Lawrence County
+Elba 	Village 	Genesee County
+Elba 	Town 	Genesee County
+Elbridge 	Town 	Onondaga County
+Elbridge 	Village 	Onondaga County
+Elizabethtown 	Town 	Essex County
+Elizabethtown 	Village 	Essex County
+Ellenburg 	Town 	Clinton County
+Ellenville 	Village 	Ulster County
+Ellery 	Town 	Chautauqua County
+Ellicott 	Town 	Chautauqua County
+Ellicottville 	Village 	Cattaraugus County
+Ellicottville 	Town 	Cattaraugus County
+Ellington 	Town 	Chautauqua County
+Ellisburg 	Village 	Jefferson County
+Ellisburg 	Town 	Jefferson County
+Elma 	Town 	Erie County
+Elmira 	Town 	Chemung County
+Elmira 	City 	Chemung County
+Elmira Heights 	Village 	Chemung County
+Elmsford 	Village 	Westchester County
+Endicott 	Village 	Broome County
+Enfield 	Town 	Tompkins County
+Ephratah 	Town 	Fulton County
+Erin 	Town 	Chemung County
+Erwin 	Town 	Steuben County
+Esopus 	Town 	Ulster County
+Esperance 	Town 	Schoharie County
+Esperance 	Village 	Schoharie County
+Essex 	Town 	Essex County
+Evans 	Town 	Erie County
+Evans Mills 	Village 	Jefferson County
+Exeter 	Town 	Otsego County
+Fabius 	Town 	Onondaga County
+Fabius 	Village 	Onondaga County
+Fair Haven 	Village 	Cayuga County
+Fairfield 	Town 	Herkimer County
+Fairport 	Village 	Monroe County
+Falconer 	Village 	Chautauqua County
+Fallsburg 	Town 	Sullivan County
+Farmersville 	Town 	Cattaraugus County
+Farmingdale 	Village 	Nassau County
+Farmington 	Town 	Ontario County
+Farnham 	Village 	Erie County
+Fayette 	Town 	Seneca County
+Fayetteville 	Village 	Onondaga County
+Fenner 	Town 	Madison County
+Fenton 	Town 	Broome County
+Fillmore 	Village 	Allegany County
+Fine 	Town 	St Lawrence County
+Fishkill 	Village 	Dutchess County
+Fishkill 	Town 	Dutchess County
+Fleischmanns 	Village 	Delaware County
+Fleming 	Town 	Cayuga County
+Floral Park 	Village 	Nassau County
+Florence 	Town 	Oneida County
+Florida 	Town 	Montgomery County
+Florida 	Village 	Orange County
+Flower Hill 	Village 	Nassau County
+Floyd 	Town 	Oneida County
+Fonda 	Village 	Montgomery County
+Forestburgh 	Town 	Sullivan County
+Forestport 	Town 	Oneida County
+Forestville 	Village 	Chautauqua County
+Fort Ann 	Village 	Washington County
+Fort Ann 	Town 	Washington County
+Fort Covington 	Town 	Franklin County
+Fort Covington 	Village 	Franklin County
+Fort Edward 	Town 	Washington County
+Fort Edward 	Village 	Washington County
+Fort Johnson 	Village 	Montgomery County
+Fort Plain 	Village 	Montgomery County
+Fowler 	Town 	St Lawrence County
+Frankfort 	Village 	Herkimer County
+Frankfort 	Town 	Herkimer County
+Franklin 	Town 	Franklin County
+Franklin 	Village 	Delaware County
+Franklin 	Town 	Delaware County
+Franklinville 	Town 	Cattaraugus County
+Franklinville 	Village 	Cattaraugus County
+Fredonia 	Village 	Chautauqua County
+Freedom 	Town 	Cattaraugus County
+Freeport 	Village 	Nassau County
+Freetown 	Town 	Cortland County
+Freeville 	Village 	Tompkins County
+Fremont 	Town 	Steuben County
+Fremont 	Town 	Sullivan County
+French Creek 	Town 	Chautauqua County
+Friendship 	Town 	Allegany County
+Friendship 	Village 	Allegany County
+Fulton 	Town 	Schoharie County
+Fulton 	City 	Oswego County
+Fultonville 	Village 	Montgomery County
+Gaines 	Town 	Orleans County
+Gainesville 	Village 	Wyoming County
+Gainesville 	Town 	Wyoming County
+Galen 	Town 	Wayne County
+Gallatin 	Town 	Columbia County
+Galway 	Village 	Saratoga County
+Galway 	Town 	Saratoga County
+Garden City 	Village 	Nassau County
+Gardiner 	Town 	Ulster County
+Gates 	Town 	Monroe County
+Geddes 	Town 	Onondaga County
+Genesee 	Town 	Allegany County
+Genesee Falls 	Town 	Wyoming County
+Geneseo 	Town 	Livingston County
+Geneseo 	Village 	Livingston County
+Geneva 	Town 	Ontario County
+Geneva 	City 	Ontario County
+Genoa 	Town 	Cayuga County
+Georgetown 	Town 	Madison County
+German 	Town 	Chenango County
+German Flatts 	Town 	Herkimer County
+Germantown 	Town 	Columbia County
+Gerry 	Town 	Chautauqua County
+Ghent 	Town 	Columbia County
+Gilbertsville 	Village 	Otsego County
+Gilboa 	Town 	Schoharie County
+Glen 	Town 	Montgomery County
+Glen Cove 	City 	Nassau County
+Glen Park 	Village 	Jefferson County
+Glens Falls 	City 	Warren County
+Glenville 	Town 	Schenectady County
+Gloversville 	City 	Fulton County
+Gorham 	Town 	Ontario County
+Goshen 	Town 	Orange County
+Goshen 	Village 	Orange County
+Gouverneur 	Town 	St Lawrence County
+Gouverneur 	Village 	St Lawrence County
+Gowanda 	Village 	Cattaraugus County
+Grafton 	Town 	Rensselaer County
+Granby 	Town 	Oswego County
+Grand Island 	Town 	Erie County
+Grand View-on-Hudson 	Village 	Rockland County
+Granger 	Town 	Allegany County
+Granville 	Village 	Washington County
+Granville 	Town 	Washington County
+Great Neck 	Village 	Nassau County
+Great Neck Estates 	Village 	Nassau County
+Great Neck Plaza 	Village 	Nassau County
+Great Valley 	Town 	Cattaraugus County
+Greece 	Town 	Monroe County
+Green Island 	Town 	Albany County
+Green Island 	Village 	Albany County
+Greenburgh 	Town 	Westchester County
+Greene 	Town 	Chenango County
+Greene 	Village 	Chenango County
+Greenfield 	Town 	Saratoga County
+Greenport 	Village 	Suffolk County
+Greenport 	Town 	Columbia County
+Greenville 	Town 	Orange County
+Greenville 	Town 	Greene County
+Greenwich 	Town 	Washington County
+Greenwich 	Village 	Washington County
+Greenwood 	Town 	Steuben County
+Greenwood Lake 	Village 	Orange County
+Greig 	Town 	Lewis County
+Groton 	Town 	Tompkins County
+Groton 	Village 	Tompkins County
+Grove 	Town 	Allegany County
+Groveland 	Town 	Livingston County
+Guilderland 	Town 	Albany County
+Guilford 	Town 	Chenango County
+Hadley 	Town 	Saratoga County
+Hagaman 	Village 	Montgomery County
+Hague 	Town 	Warren County
+Halcott 	Town 	Greene County
+Halfmoon 	Town 	Saratoga County
+Hamburg 	Town 	Erie County
+Hamburg 	Village 	Erie County
+Hamden 	Town 	Delaware County
+Hamilton 	Village 	Madison County
+Hamilton 	Town 	Madison County
+Hamlin 	Town 	Monroe County
+Hammond 	Town 	St. Lawrence County
+Hammond 	Village 	St Lawrence County
+Hammondsport 	Village 	Steuben County
+Hampton 	Town 	Washington County
+Hamptonburgh 	Town 	Orange County
+Hancock 	Town 	Delaware County
+Hancock 	Village 	Delaware County
+Hannibal 	Village 	Oswego County
+Hannibal 	Town 	Oswego County
+Hanover 	Town 	Chautauqua County
+Hardenburgh 	Town 	Ulster County
+Harford 	Town 	Cortland County
+Harmony 	Town 	Chautauqua County
+Harpersfield 	Town 	Delaware County
+Harrietstown 	Town 	Franklin County
+Harriman 	Village 	Orange County
+Harrisburg 	Town 	Lewis County
+Harrison 	Village 	Westchester County
+Harrison 	Town 	Westchester County
+Harrisville 	Village 	Lewis County
+Hartford 	Town 	Washington County
+Hartland 	Town 	Niagara County
+Hartsville 	Town 	Steuben County
+Hartwick 	Town 	Otsego County
+Hastings 	Town 	Oswego County
+Hastings-on-Hudson 	Village 	Westchester County
+Haverstraw 	Town 	Rockland County
+Haverstraw 	Village 	Rockland County
+Head Of The Harbor 	Village 	Suffolk County
+Hebron 	Town 	Washington County
+Hector 	Town 	Schuyler County
+Hempstead 	Village 	Nassau County
+Hempstead 	Town 	Nassau County
+Henderson 	Town 	Jefferson County
+Henrietta 	Town 	Monroe County
+Herkimer 	Town 	Herkimer County
+Herkimer 	Village 	Herkimer County
+Hermon 	Village 	St Lawrence County
+Hermon 	Town 	St. Lawrence County
+Herrings 	Village 	Jefferson County
+Heuvelton 	Village 	St Lawrence County
+Hewlett Bay Park 	Village 	Nassau County
+Hewlett Harbor 	Village 	Nassau County
+Hewlett Neck 	Village 	Nassau County
+Highland 	Town 	Sullivan County
+Highland Falls 	Village 	Orange County
+Highlands 	Town 	Orange County
+Hillburn 	Village 	Rockland County
+Hillsdale 	Town 	Columbia County
+Hilton 	Village 	Monroe County
+Hinsdale 	Town 	Cattaraugus County
+Hobart 	Village 	Delaware County
+Holcomb 	Village 	Ontario County
+Holland 	Town 	Erie County
+Holland Patent 	Village 	Oneida County
+Holley 	Village 	Orleans County
+Homer 	Village 	Cortland County
+Homer 	Town 	Cortland County
+Honeoye Falls 	Village 	Monroe County
+Hoosick 	Town 	Rensselaer County
+Hoosick Falls 	Village 	Rensselaer County
+Hope 	Town 	Hamilton County
+Hopewell 	Town 	Ontario County
+Hopkinton 	Town 	St. Lawrence County
+Horicon 	Town 	Warren County
+Hornby 	Town 	Steuben County
+Hornell 	City 	Steuben County
+Hornellsville 	Town 	Steuben County
+Horseheads 	Town 	Chemung County
+Horseheads 	Village 	Chemung County
+Hounsfield 	Town 	Jefferson County
+Howard 	Town 	Steuben County
+Hudson 	City 	Columbia County
+Hudson Falls 	Village 	Washington County
+Hume 	Town 	Allegany County
+Humphrey 	Town 	Cattaraugus County
+Hunter 	Town 	Greene County
+Hunter 	Village 	Greene County
+Huntington 	Town 	Suffolk County
+Huntington Bay 	Village 	Suffolk County
+Hurley 	Town 	Ulster County
+Huron 	Town 	Wayne County
+Hyde Park 	Town 	Dutchess County
+Ilion 	Village 	Herkimer County
+Independence 	Town 	Allegany County
+Indian Lake 	Town 	Hamilton County
+Inlet 	Town 	Hamilton County
+Interlaken 	Village 	Seneca County
+Ira 	Town 	Cayuga County
+Irondequoit 	Town 	Monroe County
+Irvington 	Village 	Westchester County
+Ischua 	Town 	Cattaraugus County
+Island Park 	Village 	Nassau County
+Islandia 	Village 	Suffolk County
+Islip 	Town 	Suffolk County
+Italy 	Town 	Yates County
+Ithaca 	Town 	Tompkins County
+Ithaca 	City 	Tompkins County
+Jackson 	Town 	Washington County
+Jamestown 	City 	Chautauqua County
+Jasper 	Town 	Steuben County
+Java 	Town 	Wyoming County
+Jay 	Town 	Essex County
+Jefferson 	Town 	Schoharie County
+Jeffersonville 	Village 	Sullivan County
+Jerusalem 	Town 	Yates County
+Jewett 	Town 	Greene County
+Johnsburg 	Town 	Warren County
+Johnson City 	Village 	Broome County
+Johnstown 	Town 	Fulton County
+Johnstown 	City 	Fulton County
+Jordan 	Village 	Onondaga County
+Junius 	Town 	Seneca County
+Kaser 	Village 	Rockland County
+Keene 	Town 	Essex County
+Keeseville 	Village 	Clinton County
+Kendall 	Town 	Orleans County
+Kenmore 	Village 	Erie County
+Kensington 	Village 	Nassau County
+Kent 	Town 	Putnam County
+Kiantone 	Town 	Chautauqua County
+Kinderhook 	Village 	Columbia County
+Kinderhook 	Town 	Columbia County
+Kings Point 	Village 	Nassau County
+Kingsbury 	Town 	Washington County
+Kingston 	Town 	Ulster County
+Kingston 	City 	Ulster County
+Kirkland 	Town 	Oneida County
+Kirkwood 	Town 	Broome County
+Kiryas Joel 	Village 	Orange County
+Knox 	Town 	Albany County
+Kortright 	Town 	Delaware County
+La Fayette 	Town 	Onondaga County
+La Grange 	Town 	Dutchess County
+Lackawanna 	City 	Erie County
+Lacona 	Village 	Oswego County
+Lake George 	Town 	Warren County
+Lake George 	Village 	Warren County
+Lake Grove 	Village 	Suffolk County
+Lake Luzerne 	Town 	Warren County
+Lake Placid 	Village 	Essex County
+Lake Pleasant 	Town 	Hamilton County
+Lake Success 	Village 	Nassau County
+Lakewood 	Village 	Chautauqua County
+Lancaster 	Town 	Erie County
+Lancaster 	Village 	Erie County
+Lansing 	Village 	Tompkins County
+Lansing 	Town 	Tompkins County
+Lapeer 	Town 	Cortland County
+Larchmont 	Village 	Westchester County
+Lattingtown 	Village 	Nassau County
+Laurel Hollow 	Village 	Nassau County
+Laurens 	Village 	Otsego County
+Laurens 	Town 	Otsego County
+Lawrence 	Town 	St Lawrence County
+Lawrence 	Village 	Nassau County
+Le Ray 	Town 	Jefferson County
+Le Roy 	Village 	Genesee County
+Le Roy 	Town 	Genesee County
+Lebanon 	Town 	Madison County
+Ledyard 	Town 	Cayuga County
+Lee 	Town 	Oneida County
+Leicester 	Town 	Livingston County
+Leicester 	Village 	Livingston County
+Lenox 	Town 	Madison County
+Leon 	Town 	Cattaraugus County
+Lewis 	Town 	Essex County
+Lewis 	Town 	Lewis County
+Lewisboro 	Town 	Westchester County
+Lewiston 	Town 	Niagara County
+Lewiston 	Village 	Niagara County
+Lexington 	Town 	Greene County
+Leyden 	Town 	Lewis County
+Liberty 	Village 	Sullivan County
+Liberty 	Town 	Sullivan County
+Lima 	Town 	Livingston County
+Lima 	Village 	Livingston County
+Limestone 	Village 	Cattaraugus County
+Lincklaen 	Town 	Chenango County
+Lincoln 	Town 	Madison County
+Lindenhurst 	Village 	Suffolk County
+Lindley 	Town 	Steuben County
+Lisbon 	Town 	St. Lawrence County
+Lisle 	Village 	Broome County
+Lisle 	Town 	Broome County
+Litchfield 	Town 	Herkimer County
+Little Falls 	Town 	Herkimer County
+Little Falls 	City 	Herkimer County
+Little Valley 	Town 	Cattaraugus County
+Little Valley 	Village 	Cattaraugus County
+Liverpool 	Village 	Onondaga County
+Livingston 	Town 	Columbia County
+Livonia 	Village 	Livingston County
+Livonia 	Town 	Livingston County
+Lloyd 	Town 	Ulster County
+Lloyd Harbor 	Village 	Suffolk County
+Locke 	Town 	Cayuga County
+Lockport 	City 	Niagara County
+Lockport 	Town 	Niagara County
+Lodi 	Village 	Seneca County
+Lodi 	Town 	Seneca County
+Long Beach 	City 	Nassau County
+Long Lake 	Town 	Hamilton County
+Lorraine 	Town 	Jefferson County
+Louisville 	Town 	St. Lawrence County
+Lowville 	Village 	Lewis County
+Lowville 	Town 	Lewis County
+Lumberland 	Town 	Sullivan County
+Lyme 	Town 	Jefferson County
+Lynbrook 	Village 	Nassau County
+Lyndon 	Town 	Cattaraugus County
+Lyndonville 	Village 	Orleans County
+Lyons 	Town 	Wayne County
+Lyons 	Village 	Wayne County
+Lyons Falls 	Village 	Lewis County
+Lyonsdale 	Town 	Lewis County
+Lysander 	Town 	Onondaga County
+Macedon 	Village 	Wayne County
+Macedon 	Town 	Wayne County
+Machias 	Town 	Cattaraugus County
+Macomb 	Town 	St. Lawrence County
+Madison 	Town 	Madison County
+Madison 	Village 	Madison County
+Madrid 	Town 	St. Lawrence County
+Maine 	Town 	Broome County
+Malone 	Village 	Franklin County
+Malone 	Town 	Franklin County
+Malta 	Town 	Saratoga County
+Malverne 	Village 	Nassau County
+Mamakating 	Town 	Sullivan County
+Mamaroneck 	Village 	Westchester County
+Mamaroneck 	Town 	Westchester County
+Manchester 	Village 	Ontario County
+Manchester 	Town 	Ontario County
+Manheim 	Town 	Herkimer County
+Manlius 	Village 	Onondaga County
+Manlius 	Town 	Onondaga County
+Mannsville 	Village 	Jefferson County
+Manor Haven 	Village 	Nassau County
+Mansfield 	Town 	Cattaraugus County
+Marathon 	Town 	Cortland County
+Marathon 	Village 	Cortland County
+Marbletown 	Town 	Ulster County
+Marcellus 	Town 	Onondaga County
+Marcellus 	Village 	Onondaga County
+Marcy 	Town 	Oneida County
+Margaretville 	Village 	Delaware County
+Marilla 	Town 	Erie County
+Marion 	Town 	Wayne County
+Marlborough 	Town 	Ulster County
+Marshall 	Town 	Oneida County
+Martinsburg 	Town 	Lewis County
+Maryland 	Town 	Otsego County
+Masonville 	Town 	Delaware County
+Massapequa Park 	Village 	Nassau County
+Massena 	Village 	St Lawrence County
+Massena 	Town 	St. Lawrence County
+Matinecock 	Village 	Nassau County
+Maybrook 	Village 	Orange County
+Mayfield 	Town 	Fulton County
+Mayfield 	Village 	Fulton County
+Mayville 	Village 	Chautauqua County
+Mc Graw 	Village 	Cortland County
+McDonough 	Town 	Chenango County
+Mechanicville 	City 	Saratoga County
+Medina 	Village 	Orleans County
+Menands 	Village 	Albany County
+Mendon 	Town 	Monroe County
+Mentz 	Town 	Cayuga County
+Meredith 	Town 	Delaware County
+Meridian 	Village 	Cayuga County
+Mexico 	Village 	Oswego County
+Mexico 	Town 	Oswego County
+Middleburgh 	Village 	Schoharie County
+Middleburgh 	Town 	Schoharie County
+Middlebury 	Town 	Wyoming County
+Middlefield 	Town 	Otsego County
+Middleport 	Village 	Niagara County
+Middlesex 	Town 	Yates County
+Middletown 	City 	Orange County
+Middletown 	Town 	Delaware County
+Middleville 	Village 	Herkimer County
+Milan 	Town 	Dutchess County
+Milford 	Village 	Otsego County
+Milford 	Town 	Otsego County
+Mill Neck 	Village 	Nassau County
+Millbrook 	Village 	Dutchess County
+Millerton 	Village 	Dutchess County
+Millport 	Village 	Chemung County
+Milo 	Town 	Yates County
+Milton 	Town 	Saratoga County
+Mina 	Town 	Chautauqua County
+Minden 	Town 	Montgomery County
+Mineola 	Village 	Nassau County
+Minerva 	Town 	Essex County
+Minetto 	Town 	Oswego County
+Minisink 	Town 	Orange County
+Minoa 	Village 	Onondaga County
+Mohawk 	Town 	Montgomery County
+Mohawk 	Village 	Herkimer County
+Moira 	Town 	Franklin County
+Monroe 	Town 	Orange County
+Monroe 	Village 	Orange County
+Montague 	Town 	Lewis County
+Montebello 	Village 	Rockland County
+Montezuma 	Town 	Cayuga County
+Montgomery 	Town 	Orange County
+Montgomery 	Village 	Orange County
+Monticello 	Village 	Sullivan County
+Montour 	Town 	Schuyler County
+Montour Falls 	Village 	Schuyler County
+Mooers 	Village 	Clinton County
+Mooers 	Town 	Clinton County
+Moravia 	Village 	Cayuga County
+Moravia 	Town 	Cayuga County
+Moreau 	Town 	Saratoga County
+Morehouse 	Town 	Hamilton County
+Moriah 	Town 	Essex County
+Morris 	Town 	Otsego County
+Morris 	Village 	Otsego County
+Morristown 	Town 	St Lawrence County
+Morristown 	Village 	St Lawrence County
+Morrisville 	Village 	Madison County
+Mount Hope 	Town 	Orange County
+Mount Kisco 	Village 	Westchester County
+Mount Kisco 	Town 	Westchester County
+Mount Kisco 	Village 	Westchester County
+Mount Morris 	Town 	Livingston County
+Mount Morris 	Village 	Livingston County
+Mount Pleasant 	Town 	Westchester County
+Mount Vernon 	City 	Westchester County
+Munnsville 	Village 	Madison County
+Munsey Park 	Village 	Nassau County
+Murray 	Town 	Orleans County
+Muttontown 	Village 	Nassau County
+Nanticoke 	Town 	Broome County
+Naples 	Village 	Ontario County
+Naples 	Town 	Ontario County
+Napoli 	Town 	Cattaraugus County
+Nassau 	Village 	Rensselaer County
+Nassau 	Town 	Rensselaer County
+Nelliston 	Village 	Montgomery County
+Nelson 	Town 	Madison County
+Nelsonville 	Village 	Putnam County
+Neversink 	Town 	Sullivan County
+New Albion 	Town 	Cattaraugus County
+New Baltimore 	Town 	Greene County
+New Berlin 	Village 	Chenango County
+New Berlin 	Town 	Chenango County
+New Bremen 	Town 	Lewis County
+New Castle 	Town 	Westchester County
+New Hartford 	Village 	Oneida County
+New Hartford 	Town 	Oneida County
+New Haven 	Town 	Oswego County
+New Hempstead 	Village 	Rockland County
+New Hudson 	Town 	Allegany County
+New Hyde Park 	Village 	Nassau County
+New Lebanon 	Town 	Columbia County
+New Lisbon 	Town 	Otsego County
+New Paltz 	Town 	Ulster County
+New Paltz 	Village 	Ulster County
+New Rochelle 	City 	Westchester County
+New Scotland 	Town 	Albany County
+New Square 	Village 	Rockland County
+New Windsor 	Town 	Orange County
+New York 	City 	New York County
+New York Mills 	Village 	Oneida County
+Newark 	Village 	Wayne County
+Newark Valley 	Village 	Tioga County
+Newark Valley 	Town 	Tioga County
+Newburgh 	Town 	Orange County
+Newburgh 	City 	Orange County
+Newcomb 	Town 	Essex County
+Newfane 	Town 	Niagara County
+Newfield 	Town 	Tompkins County
+Newport 	Village 	Herkimer County
+Newport 	Town 	Herkimer County
+Newstead 	Town 	Erie County
+Niagara 	Town 	Niagara County
+Niagara Falls 	City 	Niagara County
+Nichols 	Village 	Tioga County
+Nichols 	Town 	Tioga County
+Niles 	Town 	Cayuga County
+Niskayuna 	Town 	Schenectady County
+Nissequogue 	Village 	Suffolk County
+Norfolk 	Town 	St Lawrence County
+North Castle 	Town 	Westchester County
+North Collins 	Village 	Erie County
+North Collins 	Town 	Erie County
+North Dansville 	Town 	Livingston County
+North Elba 	Town 	Essex County
+North Greenbush 	Town 	Rensselaer County
+North Harmony 	Town 	Chautauqua County
+North Haven 	Village 	Suffolk County
+North Hempstead 	Town 	Nassau County
+North Hills 	Village 	Nassau County
+North Hornell 	Village 	Steuben County
+North Hudson 	Town 	Essex County
+North Norwich 	Town 	Chenango County
+North Pelham 	Village 	Westchester County
+North Salem 	Town 	Westchester County
+North Syracuse 	Village 	Onondaga County
+North Tonawanda 	City 	Niagara County
+Northampton 	Town 	Fulton County
+Northeast 	Town 	Dutchess County
+Northport 	Village 	Suffolk County
+Northumberland 	Town 	Saratoga County
+Northville 	Village 	Fulton County
+Norway 	Town 	Herkimer County
+Norwich 	City 	Chenango County
+Norwich 	Town 	Chenango County
+Norwood 	Village 	St Lawrence County
+Nunda 	Village 	Livingston County
+Nunda 	Town 	Livingston County
+Nyack 	Village 	Rockland County
+Oakfield 	Town 	Genesee County
+Oakfield 	Village 	Genesee County
+Ocean Beach 	Village 	Suffolk County
+Odessa 	Village 	Schuyler County
+Ogden 	Town 	Monroe County
+Ogdensburg 	City 	St. Lawrenc County
+Ohio 	Town 	Herkimer County
+Old Brookville 	Village 	Nassau County
+Old Field 	Village 	Suffolk County
+Old Westbury 	Village 	Nassau County
+Olean 	Town 	Cattaraugus County
+Olean 	City 	Cattaraugus County
+Olive 	Town 	Ulster County
+Oneida 	City 	Madison County
+Oneida Castle 	Village 	Oneida County
+Oneonta 	City 	Otsego County
+Oneonta 	Town 	Otsego County
+Onondaga 	Town 	Onondaga County
+Ontario 	Town 	Wayne County
+Oppenheim 	Town 	Fulton County
+Orange 	Town 	Schuyler County
+Orangetown 	Town 	Rockland County
+Orangeville 	Town 	Wyoming County
+Orchard Park 	Town 	Erie County
+Orchard Park 	Village 	Erie County
+Oriskany 	Village 	Oneida County
+Oriskany Falls 	Village 	Oneida County
+Orleans 	Town 	Jefferson County
+Orwell 	Town 	Oswego County
+Osceola 	Town 	Lewis County
+Ossian 	Town 	Livingston County
+Ossining 	Village 	Westchester County
+Ossining 	Town 	Westchester County
+Oswegatchie 	Town 	St. Lawrence County
+Oswego 	City 	Oswego County
+Oswego 	Town 	Oswego County
+Otego 	Village 	Otsego County
+Otego 	Town 	Otsego County
+Otisco 	Town 	Onondaga County
+Otisville 	Village 	Orange County
+Otsego 	Town 	Otsego County
+Otselic 	Town 	Chenango County
+Otto 	Town 	Cattaraugus County
+Ovid 	Village 	Seneca County
+Ovid 	Town 	Seneca County
+Owasco 	Town 	Cayuga County
+Owego 	Village 	Tioga County
+Owego 	Town 	Tioga County
+Oxford 	Village 	Chenango County
+Oxford 	Town 	Chenango County
+Oyster Bay 	Town 	Nassau County
+Oyster Bay Cove 	Village 	Nassau County
+Painted Post 	Village 	Steuben County
+Palatine 	Town 	Montgomery County
+Palatine Bridge 	Village 	Montgomery County
+Palermo 	Town 	Oswego County
+Palmyra 	Town 	Wayne County
+Palmyra 	Village 	Wayne County
+Pamelia 	Town 	Jefferson County
+Panama 	Village 	Chautauqua County
+Paris 	Town 	Oneida County
+Parish 	Village 	Oswego County
+Parish 	Town 	Oswego County
+Parishville 	Town 	St Lawrence County
+Parma 	Town 	Monroe County
+Patchogue 	Village 	Suffolk County
+Patterson 	Town 	Putnam County
+Pavilion 	Town 	Genesee County
+Pawling 	Town 	Dutchess County
+Pawling 	Village 	Dutchess County
+Peekskill 	City 	Westchester County
+Pelham 	Town 	Westchester County
+Pelham 	Village 	Westchester County
+Pelham Manor 	Village 	Westchester County
+Pembroke 	Town 	Genesee County
+Pendleton 	Town 	Niagara County
+Penfield 	Town 	Monroe County
+Penn Yan 	Village 	Yates County
+Perinton 	Town 	Monroe County
+Perry 	Town 	Wyoming County
+Perry 	Village 	Wyoming County
+Perrysburg 	Town 	Cattaraugus County
+Perrysburg 	Village 	Cattaraugus County
+Persia 	Town 	Cattaraugus County
+Perth 	Town 	Fulton County
+Peru 	Town 	Clinton County
+Petersburgh 	Town 	Rensselaer County
+Pharsalia 	Town 	Chenango County
+Phelps 	Village 	Ontario County
+Phelps 	Town 	Ontario County
+Philadelphia 	Town 	Jefferson County
+Philadelphia 	Village 	Jefferson County
+Philipstown 	Town 	Putnam County
+Philmont 	Village 	Columbia County
+Phoenix 	Village 	Oswego County
+Piercefield 	Town 	St Lawrence County
+Piermont 	Village 	Rockland County
+Pierrepont 	Town 	St Lawrence County
+Pike 	Village 	Wyoming County
+Pike 	Town 	Wyoming County
+Pinckney 	Town 	Lewis County
+Pine Plains 	Town 	Dutchess County
+Pine Valley 	Village 	Suffolk County
+Pitcairn 	Town 	St Lawrence County
+Pitcher 	Town 	Chenango County
+Pittsfield 	Town 	Otsego County
+Pittsford 	Village 	Monroe County
+Pittsford 	Town 	Monroe County
+Pittstown 	Town 	Rensselaer County
+Plainfield 	Town 	Otsego County
+Plandome 	Village 	Nassau County
+Plandome Heights 	Village 	Nassau County
+Plandome Manor 	Village 	Nassau County
+Plattekill 	Town 	Ulster County
+Plattsburgh 	Town 	Clinton County
+Plattsburgh 	City 	Clinton County
+Pleasant Valley 	Town 	Dutchess County
+Pleasantville 	Village 	Westchester County
+Plymouth 	Town 	Chenango County
+Poestenkill 	Town 	Rensselaer County
+Poland 	Village 	Herkimer County
+Poland 	Town 	Chautauqua County
+Pomfret 	Town 	Chautauqua County
+Pomona 	Village 	Rockland County
+Pompey 	Town 	Onondaga County
+Poquott 	Village 	Suffolk County
+Port Byron 	Village 	Cayuga County
+Port Chester 	Village 	Westchester County
+Port Dickinson 	Village 	Broome County
+Port Henry 	Village 	Essex County
+Port Jefferson 	Village 	Suffolk County
+Port Jervis 	City 	Orange County
+Port Leyden 	Village 	Lewis County
+Port Washington North 	Village 	Nassau County
+Portage 	Town 	Livingston County
+Porter 	Town 	Niagara County
+Portland 	Town 	Chautauqua County
+Portville 	Town 	Cattaraugus County
+Portville 	Village 	Cattaraugus County
+Potsdam 	Village 	St Lawrence County
+Potsdam 	Town 	St Lawrence County
+Potter 	Town 	Yates County
+Poughkeepsie 	Town 	Dutchess County
+Poughkeepsie 	City 	Dutchess County
+Pound Ridge 	Town 	Westchester County
+Prattsburg 	Village 	Steuben County
+Prattsburg 	Town 	Steuben County
+Prattsville 	Town 	Greene County
+Preble 	Town 	Cortland County
+Preston 	Town 	Chenango County
+Princetown 	Town 	Schenectady County
+Prospect 	Village 	Oneida County
+Providence 	Town 	Saratoga County
+Pulaski 	Village 	Oswego County
+Pulteney 	Town 	Steuben County
+Putnam 	Town 	Washington County
+Putnam Valley 	Town 	Putnam County
+Queensbury 	Town 	Warren County
+Quogue 	Village 	Suffolk County
+Ramapo 	Town 	Rockland County
+Randolph 	Village 	Cattaraugus County
+Randolph 	Town 	Cattaraugus County
+Rathbone 	Town 	Steuben County
+Ravena 	Village 	Albany County
+Reading 	Town 	Schuyler County
+Red Creek 	Village 	Wayne County
+Red Hook 	Town 	Dutchess County
+Red Hook 	Village 	Dutchess County
+Red House 	Town 	Cattaraugus County
+Redfield 	Town 	Oswego County
+Remsen 	Village 	Oneida County
+Remsen 	Town 	Oneida County
+Rensselaer 	City 	Rensselaer County
+Rensselaer Falls 	Village 	St Lawrence County
+Rensselaerville 	Town 	Albany County
+Rhinebeck 	Town 	Dutchess County
+Rhinebeck 	Village 	Dutchess County
+Richburg 	Village 	Allegany County
+Richfield 	Town 	Otsego County
+Richfield Springs 	Village 	Otsego County
+Richford 	Town 	Tioga County
+Richland 	Town 	Oswego County
+Richmond 	Town 	Ontario County
+Richmondville 	Village 	Schoharie County
+Richmondville 	Town 	Schoharie County
+Richville 	Village 	St Lawrence County
+Ridgeway 	Town 	Orleans County
+Riga 	Town 	Monroe County
+Ripley 	Town 	Chautauqua County
+Riverhead 	Town 	Suffolk County
+Riverside 	Village 	Steuben County
+Rochester 	Town 	Ulster County
+Rochester 	City 	Monroe County
+Rockland 	Town 	Sullivan County
+Rockville Centre 	Village 	Nassau County
+Rodman 	Town 	Jefferson County
+Rome 	City 	Oneida County
+Romulus 	Town 	Seneca County
+Root 	Town 	Montgomery County
+Rose 	Town 	Wayne County
+Roseboom 	Town 	Otsego County
+Rosendale 	Village 	Ulster County
+Rosendale 	Town 	Ulster County
+Roslyn 	Village 	Nassau County
+Roslyn Estates 	Village 	Nassau County
+Roslyn Harbor 	Village 	Nassau County
+Rossie 	Town 	St Lawrence County
+Rotterdam 	Town 	Schenectady County
+Round Lake 	Village 	Saratoga County
+Rouses Point 	Village 	Clinton County
+Roxbury 	Town 	Delaware County
+Royalton 	Town 	Niagara County
+Rush 	Town 	Monroe County
+Rushford 	Town 	Allegany County
+Rushville 	Village 	Ontario County
+Russell 	Town 	St Lawrence County
+Russell Gardens 	Village 	Nassau County
+Russia 	Town 	Herkimer County
+Rutland 	Town 	Jefferson County
+Rye 	City 	Westchester County
+Rye 	Town 	Westchester County
+Rye Brook 	Village 	Westchester County
+Sackets Harbor 	Village 	Jefferson County
+Saddle Rock 	Village 	Nassau County
+Sag Harbor 	Village 	Suffolk County
+Salamanca 	City 	Cattaraugus County
+Salamanca 	Town 	Cattaraugus County
+Salem 	Town 	Washington County
+Salem 	Village 	Washington County
+Salina 	Town 	Onondaga County
+Salisbury 	Town 	Herkimer County
+Saltaire 	Village 	Suffolk County
+Sand Lake 	Town 	Rensselaer County
+Sands Point 	Village 	Nassau County
+Sandy Creek 	Village 	Oswego County
+Sandy Creek 	Town 	Oswego County
+Sanford 	Town 	Broome County
+Sangerfield 	Town 	Oneida County
+Santa Clara 	Town 	Franklin County
+Saranac 	Town 	Clinton County
+Saranac Lake 	Village 	Essex County
+Saratoga 	Town 	Saratoga County
+Saratoga Springs 	City 	Saratoga County
+Sardinia 	Town 	Erie County
+Saugerties 	Town 	Ulster County
+Saugerties 	Village 	Ulster County
+Savannah 	Town 	Wayne County
+Savannah 	Village 	Wayne County
+Savona 	Village 	Steuben County
+Scarsdale 	Town 	Westchester County
+Scarsdale 	Village 	Westchester County
+Schaghticoke 	Town 	Rensselaer County
+Schaghticoke 	Village 	Rensselaer County
+Schenectady 	City 	Schenectady County
+Schenevus 	Village 	Otsego County
+Schodack 	Town 	Rensselaer County
+Schoharie 	Village 	Schoharie County
+Schoharie 	Town 	Schoharie County
+Schroeppel 	Town 	Oswego County
+Schroon 	Town 	Essex County
+Schuyler 	Town 	Herkimer County
+Schuyler Falls 	Town 	Clinton County
+Schuylerville 	Village 	Saratoga County
+Scio 	Town 	Allegany County
+Scipio 	Town 	Cayuga County
+Scotia 	Village 	Schenectady County
+Scott 	Town 	Cortland County
+Scottsville 	Village 	Monroe County
+Scriba 	Town 	Oswego County
+Sea Cliff 	Village 	Nassau County
+Sempronius 	Town 	Cayuga County
+Seneca 	Town 	Ontario County
+Seneca Falls 	Village 	Seneca County
+Seneca Falls 	Town 	Seneca County
+Sennett 	Town 	Cayuga County
+Seward 	Town 	Schoharie County
+Shandaken 	Town 	Ulster County
+Sharon 	Town 	Schoharie County
+Sharon Springs 	Village 	Schoharie County
+Shawangunk 	Town 	Ulster County
+Shelby 	Town 	Orleans County
+Sheldon 	Town 	Wyoming County
+Shelter Island 	Town 	Suffolk County
+Sherburne 	Town 	Chenango County
+Sherburne 	Village 	Chenango County
+Sheridan 	Town 	Chautauqua County
+Sherman 	Village 	Chautauqua County
+Sherman 	Town 	Chautauqua County
+Sherrill 	City 	Oneida County
+Sherrill 	Village 	Oneida County
+Shoreham 	Village 	Suffolk County
+Shortsville 	Village 	Ontario County
+Sidney 	Village 	Delaware County
+Sidney 	Town 	Delaware County
+Silver Creek 	Village 	Chautauqua County
+Silver Springs 	Village 	Wyoming County
+Sinclairville 	Village 	Chautauqua County
+Skaneateles 	Town 	Onondaga County
+Skaneateles 	Village 	Onondaga County
+Sleepy Hollow 	Village 	Westchester County
+Sloan 	Village 	Erie County
+Sloatsburg 	Village 	Rockland County
+Smithfield 	Town 	Madison County
+Smithtown 	Town 	Suffolk County
+Smithville 	Town 	Chenango County
+Smyrna 	Town 	Chenango County
+Smyrna 	Village 	Chenango County
+Sodus 	Village 	Wayne County
+Sodus 	Town 	Wayne County
+Sodus Point 	Village 	Wayne County
+Solon 	Town 	Cortland County
+Solvay 	Village 	Onondaga County
+Somers 	Town 	Westchester County
+Somerset 	Town 	Niagara County
+South Bristol 	Town 	Ontario County
+South Corning 	Village 	Steuben County
+South Dayton 	Village 	Cattaraugus County
+South Floral Park 	Village 	Nassau County
+South Glens Falls 	Village 	Saratoga County
+South Nyack 	Village 	Rockland County
+South Valley 	Town 	Cattaraugus County
+Southampton 	Town 	Suffolk County
+Southampton 	Village 	Suffolk County
+Southeast 	Town 	Putnam County
+Southold 	Town 	Suffolk County
+Southport 	Town 	Chemung County
+Spafford 	Town 	Onondaga County
+Sparta 	Town 	Livingston County
+Speculator 	Village 	Hamilton County
+Spencer 	Town 	Tioga County
+Spencer 	Village 	Tioga County
+Spencerport 	Village 	Monroe County
+Spring Valley 	Village 	Rockland County
+Springfield 	Town 	Otsego County
+Springport 	Town 	Cayuga County
+Springville 	Village 	Erie County
+Springwater 	Town 	Livingston County
+St Armand 	Town 	Essex County
+St Johnsville 	Village 	Montgomery County
+St Johnsville 	Town 	Montgomery County
+Stafford 	Town 	Genesee County
+Stamford 	Village 	Delaware County
+Stamford 	Town 	Delaware County
+Stanford 	Town 	Dutchess County
+Stark 	Town 	Herkimer County
+Starkey 	Town 	Yates County
+Stephentown 	Town 	Rensselaer County
+Sterling 	Town 	Cayuga County
+Steuben 	Town 	Oneida County
+Stewart Manor 	Village 	Nassau County
+Stillwater 	Town 	Saratoga County
+Stillwater 	Village 	Saratoga County
+Stockbridge 	Town 	Madison County
+Stockholm 	Town 	St Lawrence County
+Stockport 	Town 	Columbia County
+Stockton 	Town 	Chautauqua County
+Stony Creek 	Town 	Warren County
+Stony Point 	Town 	Rockland County
+Stratford 	Town 	Fulton County
+Stuyvesant 	Town 	Columbia County
+Suffern 	Village 	Rockland County
+Sullivan 	Town 	Madison County
+Summerhill 	Town 	Cayuga County
+Summit 	Town 	Schoharie County
+Sweden 	Town 	Monroe County
+Sylvan Beach 	Village 	Oneida County
+Syracuse 	City 	Onondaga County
+Taghkanic 	Town 	Columbia County
+Tannersville 	Village 	Greene County
+Tarrytown 	Village 	Westchester County
+Taylor 	Town 	Cortland County
+Theresa 	Town 	Jefferson County
+Theresa 	Village 	Jefferson County
+Thomaston 	Village 	Nassau County
+Thompson 	Town 	Sullivan County
+Throop 	Town 	Cayuga County
+Thurman 	Town 	Warren County
+Thurston 	Town 	Steuben County
+Ticonderoga 	Town 	Essex County
+Ticonderoga 	Village 	Essex County
+Tioga 	Town 	Tioga County
+Tivoli 	Village 	Dutchess County
+Tompkins 	Town 	Delaware County
+Tonawanda 	Town 	Erie County
+Tonawanda 	City 	Erie County
+Torrey 	Town 	Yates County
+Trenton 	Town 	Oneida County
+Triangle 	Town 	Broome County
+Troupsburg 	Town 	Steuben County
+Troy 	City 	Rensselaer County
+Trumansburg 	Village 	Tompkins County
+Truxton 	Town 	Cortland County
+Tuckahoe 	Village 	Westchester County
+Tully 	Village 	Onondaga County
+Tully 	Town 	Onondaga County
+Tupper Lake 	Village 	Franklin County
+Tupper Lake
+(changed from Altamont 2004) 	Town 	Franklin County
+Turin 	Village 	Lewis County
+Turin 	Town 	Lewis County
+Tuscarora 	Town 	Steuben County
+Tusten 	Town 	Sullivan County
+Tuxedo 	Town 	Orange County
+Tuxedo Park 	Village 	Orange County
+Tyre 	Town 	Seneca County
+Tyrone 	Town 	Schuyler County
+Ulster 	Town 	Ulster County
+Ulysses 	Town 	Tompkins County
+Unadilla 	Village 	Otsego County
+Unadilla 	Town 	Otsego County
+Union 	Town 	Broome County
+Union Springs 	Village 	Cayuga County
+Union Vale 	Town 	Dutchess County
+Unionville 	Village 	Orange County
+Upper Brookville 	Village 	Nassau County
+Upper Nyack 	Village 	Rockland County
+Urbana 	Town 	Steuben County
+Utica 	City 	Oneida County
+Valatie 	Village 	Columbia County
+Valley Falls 	Village 	Rensselaer County
+Valley Stream 	Village 	Nassau County
+Van Buren 	Town 	Onondaga County
+Van Etten 	Village 	Chemung County
+Van Etten 	Town 	Chemung County
+Varick 	Town 	Seneca County
+Venice 	Town 	Cayuga County
+Vernon 	Village 	Oneida County
+Vernon 	Town 	Oneida County
+Verona 	Town 	Oneida County
+Vestal 	Town 	Broome County
+Veteran 	Town 	Chemung County
+Victor 	Village 	Ontario County
+Victor 	Town 	Ontario County
+Victory 	Village 	Saratoga County
+Victory 	Town 	Cayuga County
+Vienna 	Town 	Oneida County
+Village Of The Branch 	Village 	Suffolk County
+Villenova 	Town 	Chautauqua County
+Virgil 	Town 	Cortland County
+Volney 	Town 	Oswego County
+Voorheesville 	Village 	Albany County
+Waddington 	Town 	St Lawrence County
+Waddington 	Village 	St Lawrence County
+Walden 	Village 	Orange County
+Wales 	Town 	Erie County
+Wallkill 	Town 	Orange County
+Walton 	Village 	Delaware County
+Walton 	Town 	Delaware County
+Walworth 	Town 	Wayne County
+Wampsville 	Village 	Madison County
+Wappinger 	Town 	Dutchess County
+Wappingers Falls 	Village 	Dutchess County
+Ward 	Town 	Allegany County
+Warren 	Town 	Herkimer County
+Warrensburg 	Town 	Warren County
+Warsaw 	Town 	Wyoming County
+Warsaw 	Village 	Wyoming County
+Warwick 	Village 	Orange County
+Warwick 	Town 	Orange County
+Washington 	Town 	Dutchess County
+Washingtonville 	Village 	Orange County
+Waterford 	Town 	Saratoga County
+Waterford 	Village 	Saratoga County
+Waterloo 	Village 	Seneca County
+Waterloo 	Town 	Seneca County
+Watertown 	City 	Jefferson County
+Watertown 	Town 	Jefferson County
+Waterville 	Village 	Oneida County
+Watervliet 	City 	Albany County
+Watkins Glen 	Village 	Schuyler County
+Watson 	Town 	Lewis County
+Waverly 	Town 	Franklin County
+Waverly 	Village 	Tioga County
+Wawarsing 	Town 	Ulster County
+Wawayanda 	Town 	Orange County
+Wayland 	Village 	Steuben County
+Wayland 	Town 	Steuben County
+Wayne 	Town 	Steuben County
+Webb 	Town 	Herkimer County
+Webster 	Village 	Monroe County
+Webster 	Town 	Monroe County
+Weedsport 	Village 	Cayuga County
+Wells 	Town 	Hamilton County
+Wellsburg 	Village 	Chemung County
+Wellsville 	Town 	Allegany County
+Wellsville 	Village 	Allegany County
+Wesley Hills 	Village 	Rockland County
+West Almond 	Town 	Allegany County
+West Bloomfield 	Town 	Ontario County
+West Carthage 	Village 	Jefferson County
+West Hampton Dunes 	Village 	Suffolk County
+West Haverstraw 	Village 	Rockland County
+West Monroe 	Town 	Oswego County
+West Seneca 	Town 	Erie County
+West Sparta 	Town 	Livingston County
+West Turin 	Town 	Lewis County
+West Union 	Town 	Steuben County
+West Winfield 	Village 	Herkimer County
+Westbury 	Village 	Nassau County
+Westerlo 	Town 	Albany County
+Western 	Town 	Oneida County
+Westfield 	Town 	Chautauqua County
+Westfield 	Village 	Chautauqua County
+Westford 	Town 	Otsego County
+Westhampton Beach 	Village 	Suffolk County
+Westmoreland 	Town 	Oneida County
+Westport 	Village 	Essex County
+Westport 	Town 	Essex County
+Westville 	Town 	Franklin County
+Wethersfield 	Town 	Wyoming County
+Wheatfield 	Town 	Niagara County
+Wheatland 	Town 	Monroe County
+Wheeler 	Town 	Steuben County
+White Creek 	Town 	Washington County
+White Plains 	City 	Westchester County
+Whitehall 	Village 	Washington County
+Whitehall 	Town 	Washington County
+Whitesboro 	Village 	Oneida County
+Whitestown 	Town 	Oneida County
+Whitney Point 	Village 	Broome County
+Willet 	Town 	Cortland County
+Williamson 	Town 	Wayne County
+Williamstown 	Town 	Oswego County
+Williamsville 	Village 	Erie County
+Willing 	Town 	Allegany County
+Williston Park 	Village 	Nassau County
+Willsboro 	Town 	Essex County
+Wilmington 	Town 	Essex County
+Wilna 	Town 	Jefferson County
+Wilson 	Village 	Niagara County
+Wilson 	Town 	Niagara County
+Wilton 	Town 	Saratoga County
+Windham 	Town 	Greene County
+Windsor 	Town 	Broome County
+Windsor 	Village 	Broome County
+Winfield 	Town 	Herkimer County
+Wirt 	Town 	Allegany County
+Wolcott 	Village 	Wayne County
+Wolcott 	Town 	Wayne County
+Woodbury 	Town 	Orange County
+Woodhull 	Village 	Steuben County
+Woodhull 	Town 	Steuben County
+Woodridge 	Village 	Sullivan County
+Woodsburgh 	Village 	Nassau County
+Woodstock 	Town 	Ulster County
+Worcester 	Town 	Otsego County
+Worth 	Town 	Jefferson County
+Wright 	Town 	Schoharie County
+Wurtsboro 	Village 	Sullivan County
+Wyoming 	Village 	Wyoming County
+Yates 	Town 	Orleans County
+Yonkers 	City 	Westchester County
+York 	Town 	Livingston County
+Yorkshire 	Town 	Cattaraugus County
+Yorktown 	Town 	Westchester County
+Yorkville 	Village 	Oneida County
+Youngstown 	Village 	Niagara County
